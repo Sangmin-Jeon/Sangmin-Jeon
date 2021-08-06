@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 #### Tools >   
 
-<img src="https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white"/>     <img src="https://img.shields.io/badge/-Xcode-blue?logo=Xcode&logoColor=white"/>     <img src="https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white"/>    <img src="https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black"/> 
+<img src="https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white"/>     <img src="https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white"/>     <img src="https://img.shields.io/badge/-Xcode-blue?logo=Xcode&logoColor=white"/>    <img src="https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black"/> 
 </div>
