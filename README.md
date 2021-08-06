@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=8977AD&section=header&text=Sangmin's%20github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8977AD&section=header&text=Sangmin's%20github&fontColor=ffffff)
