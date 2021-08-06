@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3399FF&section=header&text=Sangmin's%20github&fontColor=ffffff)   
 ### Hi there 👋   
-
+<center>
 ### 🛠 Skills
 
 Platforms & Languages >  
@@ -24,3 +24,4 @@ Platforms & Languages >
 Tools >   
 
 <img src="https://img.shields.io/badge/-Xcode-blue?logo=Xcode&logoColor=white"/>     <img src="https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white"/>
+</center>
