@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### Hi there 👋   
    
 ### Skills
-<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>   <img src="https://img.shields.io/badge/-Swift-white?logo=Swift&logoColor=orange"/>   <img src="https://img.shields.io/badge/-UIkit-orange"/>   <img src="https://img.shields.io/badge/-Ubuntu-red?logo=Ubuntu&logoColor=white"/>   <img src="https://img.shields.io/badge/-C-white?logo=C&logoColor=blue"/>   <img src="https://img.shields.io/badge/-Verilog-purple?"/>
+<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>   <img src="https://img.shields.io/badge/-Swift-white?logo=Swift&logoColor=orange"/>   <img src="https://img.shields.io/badge/-UIkit-orange"/>   <img src="https://img.shields.io/badge/-Ubuntu-red?logo=Ubuntu&logoColor=white"/>   <img src="https://img.shields.io/badge/-C-white?logo=C&logoColor=blue"/>   <img src="https://img.shields.io/badge/-Verilog-9999FF?"/>
 ### Platforms
 <img src="https://img.shields.io/badge/-Xcode-blue?logo=Xcode&logoColor=white"/>     <img src="https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white"/>
