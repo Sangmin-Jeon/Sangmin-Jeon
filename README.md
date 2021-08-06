@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋   
 
 <div align="center">   
+  
 ### 🛠 Skills   
 
 Platforms & Languages >  
