@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8977AD&section=header&text=Sangmin's%20github&fontColor=ffffff)   
 ### Hi there 👋   
    
-** Skill
+## Skill
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>   <img src="https://img.shields.io/badge/-Swift-white?logo=Swift&logoColor=orange"/>   
-** Platform
+## Platform
 <img src="https://img.shields.io/badge/-Xcode-blue?logo=Xcode&logoColor=white"/>     <img src="https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white"/>
