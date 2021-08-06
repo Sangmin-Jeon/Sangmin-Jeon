@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8977AD&section=header&text=Sangmin's%20github&fontColor=ffffff)   
+### Hi there 👋   
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
