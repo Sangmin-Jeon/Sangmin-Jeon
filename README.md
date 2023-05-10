@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3399FF&section=header&text=Sangmin's%20github&fontColor=ffffff)   
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=d7e6fa&section=header&text=Hello&fontColor=ffffff)   
 ### Hi there 👋   
      
 ### 🛠 Skills   
