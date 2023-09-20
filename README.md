@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d7e6fa&section=header&height=200&text=Hi%20there🐶&fontAlign=70&rotate=13&fontAlignY=25&desc=SangMin's%20GitHub&descAlign=70.&descAlignY=44&fontColor=black)   
     
-### 🛠 Skills   
+### 🛠 SKILLS  
 
 #### < Languages & Framework >  
 <p align="center">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <br>
 </p>
     
-#### < Tools >
+#### 🧰 TOOLS
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Xcode-147EFB?logo=Xcode&logoColor=white"/>
