@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <br>
 </p>
     
-#### 🧰 TOOLS
+### 🧰 TOOLS
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Xcode-147EFB?logo=Xcode&logoColor=white"/>
