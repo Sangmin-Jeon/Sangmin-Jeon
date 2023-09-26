@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     
 ### I'm using these 🛠 skills  
 
-#### < Languages & Framework >  
+#### < Languages & Framework & etc. >  
 <p align="center">
 <img src="https://img.shields.io/badge/-Swift-white?logo=Swift&logoColor=orange"/> 
 <img src="https://img.shields.io/badge/-SwiftUI-black?logo=Swift&logoColor=blue"/>
