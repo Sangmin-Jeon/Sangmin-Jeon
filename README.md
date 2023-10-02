@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-UIkit-orange?logo=Swift&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-RxSwift-B7178C?logo=reactivex&logoColor=white"/>  
     <br> 
+        <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=Go&logoColor=white"/>
         <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
         <img src="https://img.shields.io/badge/-FireBase-FFCA28?logo=FireBase&logoColor=white"/>  
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>  
