@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d7e6fa&section=header&height=200&text=Hi%20there🐶&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&fontColor=black)   
 
-<img src="https://github.com/Sangmin-Jeon/Sangmin-Jeon/assets/59474775/fb35237c-6403-4be3-9b8f-710736976b17.PNG"  width="250" height="200">
+<img src="https://github.com/Sangmin-Jeon/Sangmin-Jeon/assets/59474775/9fe316d3-16dd-4e10-83f9-6dc14431bbb1.PNG"  width="300" height="300">
     
 ### I'm using these 🛠 skills  
 
