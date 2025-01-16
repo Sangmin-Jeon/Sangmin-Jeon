@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=Pytorch&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/--A8B9CC?logo=C&logoColor=black"/>  
+    <img src="https://img.shields.io/badge/--A8B9CC?logo=C&logoColor=white"/>  
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white"/>  
     <img src="https://img.shields.io/badge/-Qt-41CD52?logo=Qt&logoColor=black"/>  
     <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white"/>  
