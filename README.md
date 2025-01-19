@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=j3k2kk)](https://solved.ac/j3k2kk)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangmin-Jeon&layout=compact&theme=radical)
+
 </td>
 <td width="50%" align="center" style="border: none;">
 
@@ -57,14 +59,12 @@ Here are some ideas to get you started:
 
 ### these 🧰 tools
 <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Xcode-147EFB?logo=Xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Zsh-F15A24?logo=Zsh&logoColor=white"/>
-<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MacOS-white?logo=Apple&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white"/>
 <br>
@@ -72,8 +72,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Raspbian-A22846?logo=RaspberryPi&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-00878F?logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Slack-4A154B?logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Notion-white?logo=Notion&logoColor=black"/>
 
 #### && Play 
 <img src="https://img.shields.io/badge/-Nintendo Switch-E60012?logo=nintendoswitch&logoColor=white"/>
