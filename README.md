@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d7e6fa&section=header&height=200&text=Hi%20there🐶&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&fontColor=black)   
 
 <img src="https://github.com/Sangmin-Jeon/Sangmin-Jeon/assets/59474775/9fe316d3-16dd-4e10-83f9-6dc14431bbb1.PNG"  width="300" height="300">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=j3k2kk)](https://solved.ac/j3k2kk)
     
 ### I'm using these 🛠 skills  
 
