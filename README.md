@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <tr style="border: none;">
 <td width="50%" align="center" style="border: none;">
 
-<img src="https://github.com/Sangmin-Jeon/Sangmin-Jeon/assets/59474775/9fe316d3-16dd-4e10-83f9-6dc14431bbb1.PNG" width="300" height="300">
+<img src="https://github.com/Sangmin-Jeon/Sangmin-Jeon/assets/59474775/9fe316d3-16dd-4e10-83f9-6dc14431bbb1.PNG" width="350" height="350">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=j3k2kk)](https://solved.ac/j3k2kk)
 
